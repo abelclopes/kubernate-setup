@@ -1,0 +1,2 @@
+mkdir -p $HOME/.kube
+cp output/kubeconfig.yaml $HOME/.kube/config
